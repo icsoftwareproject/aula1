@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2b9c530-334e-4204-9641-2ec03a626594" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/ufal/ic/aula1/PassArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/ufal/ic/aula1/VarargsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/ufal/ic/aula1/InitArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufal/ic/aula1/InitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/ufal/ic/aula1/ArrayManipulations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,11 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/br/ufal/ic/aula1/VarargsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="90" lean-forward="true" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/ufal/ic/aula1/ArrayManipulations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -108,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/br/ufal/ic/aula1/PassArray.java" />
         <option value="$PROJECT_DIR$/src/br/ufal/ic/aula1/InitArray.java" />
         <option value="$PROJECT_DIR$/src/br/ufal/ic/aula1/VarargsTest.java" />
+        <option value="$PROJECT_DIR$/src/br/ufal/ic/aula1/ArrayManipulations.java" />
       </list>
     </option>
   </component>
@@ -194,12 +201,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557926456965</updated>
       <workItem from="1557926461515" duration="5324000" />
-      <workItem from="1558494189748" duration="3895000" />
+      <workItem from="1558494189748" duration="4505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11436000" />
+    <option name="totallyTimeSpent" value="12046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -427,8 +434,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/ufal/ic/aula1/VarargsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="90" lean-forward="true" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/ufal/ic/aula1/ArrayManipulations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
         </state>
       </provider>
     </entry>
