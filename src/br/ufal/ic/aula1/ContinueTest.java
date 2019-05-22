@@ -2,7 +2,7 @@ package br.ufal.ic.aula1;
 
 public class ContinueTest {
     public static void main(String[] args) {
-        
+
         for(int count = 1; count <= 10; count++) { // loop 10 times
             if (count == 5)
                 continue;
